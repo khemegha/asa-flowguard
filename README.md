@@ -33,19 +33,21 @@ evidence, whether any of it is governed. **ASA AI FlowGuard** turns that gut
 feeling into a **score, a risk map and an action plan** in one structured
 assessment.
 
-### The deliverable: a working Excel assessment
+### One screen, every blind spot
 
-FlowGuard is built around a single, self-contained **Excel workbook** — the
-engine. You answer, it scores: maturity, compliance, residual-risk register and
-dashboard update automatically. Every question is mapped, line by line, to the
-seven frameworks regulators and auditors actually use.
+You answer; it scores. Maturity level, global compliance, residual-risk matrix
+and your top critical risks — all computed automatically, and delivered as a
+working **Excel register** plus a board-ready report.
 
 <div align="center">
-<img src="assets/spec-excel-questionnaire.png" alt="FlowGuard Excel — questionnaire with framework mapping (SPECIMEN)" width="860" />
-<br/><br/>
-<img src="assets/spec-excel-dashboard.png" alt="FlowGuard Excel — dashboard & residual-risk matrix (SPECIMEN)" width="720" />
-<br/><em>Extract of the FlowGuard workbook — <strong>SPECIMEN</strong></em>
+<img src="assets/flowguard-02-dashboard.png" width="430" />
 </div>
+
+### Mapped to the frameworks that matter
+
+**114 questions across 10 domains** — Governance, Inventory, Models, Data,
+Prompts & RAG, Agents, Workflows, Testing, Operations, Regulation — each mapped
+to the seven frameworks regulators and auditors actually use:
 
 | Framework | Publisher |
 |---|---|
@@ -57,21 +59,14 @@ seven frameworks regulators and auditors actually use.
 | EU AI Act | European Union |
 | ATLAS (adversarial ML) | MITRE |
 
-### What you get
-
-- A **maturity level** (1–5) and a **global compliance score**
-- A **residual-risk matrix** (impact × likelihood) and your **top 10 critical risks**
-- A **prioritized remediation plan**, owner and due date per finding
-- A **board-ready report** (PDF) backed by the working Excel register
-
-> Answers are simple — **Yes · Partial · No · Don't know · N/A** — and *"Don't know"
-> is scored as a risk: what you can't see, you can't defend.*
-
 <div align="center">
 <img src="assets/flowguard-03-compliance.png" width="250" />
 <img src="assets/flowguard-04-top-risks.png" width="250" />
 <img src="assets/flowguard-05-howitworks.png" width="250" />
 </div>
+
+> Answers are simple — **Yes · Partial · No · Don't know · N/A** — and *"Don't know"
+> is scored as a risk: what you can't see, you can't defend.*
 
 ### Inside the report (specimen)
 
@@ -80,8 +75,9 @@ seven frameworks regulators and auditors actually use.
 <img src="assets/spec-report-en-2.png" width="330" />
 </div>
 
-> The sample report is shown as a **watermarked specimen** — not downloadable,
-> not printable. The full, clean report is delivered with your assessment.
+> The report is shown as a **watermarked specimen** — not downloadable, not
+> printable. The full, clean report and the Excel register are delivered with
+> your assessment.
 
 ### Get your baseline
 
@@ -103,32 +99,29 @@ cela est gouverné. **ASA AI FlowGuard** transforme cette intuition en un
 **score, une cartographie des risques et un plan d'action**, en une seule
 évaluation structurée.
 
-### La pièce maîtresse : un classeur Excel opérationnel
+### Un écran, tous les angles morts
 
-FlowGuard repose sur un **classeur Excel** autonome — le moteur. Vous répondez,
-il calcule : maturité, conformité, registre des risques résiduels et tableau de
-bord se mettent à jour automatiquement. Chaque question est rattachée, ligne par
-ligne, aux sept référentiels qu'utilisent réellement régulateurs et auditeurs
-(colonnes visibles ci-dessus).
+Vous répondez, il calcule. Niveau de maturité, conformité globale, matrice des
+risques résiduels et top des risques critiques — le tout automatique, livré sous
+forme de **registre Excel** opérationnel et d'un rapport présentable à un comité.
 
-### Ce qu'il mesure
+<div align="center">
+<img src="assets/flowguard-dashboard-fr-1.png" width="430" />
+<br/><br/>
+<img src="assets/spec-excel-dashboard.png" width="430" />
+<br/><em>Tableau de bord du classeur Excel — <strong>SPÉCIMEN</strong></em>
+</div>
+
+### Rattaché aux référentiels qui comptent
 
 **114 questions sur 10 domaines** — Gouvernance, Inventaire, Modèles, Données,
-Prompts & RAG, Agents, Workflows, Tests, Exploitation, Réglementation.
-
-### Ce que vous obtenez
-
-- Un **niveau de maturité** (1 à 5) et un **score de conformité global**
-- Une **matrice des risques résiduels** (impact × probabilité) et vos **10 risques critiques**
-- Un **plan de remédiation priorisé**, avec responsable et échéance par constat
-- Un **rapport présentable à un comité** (PDF), adossé au registre Excel
+Prompts & RAG, Agents, Workflows, Tests, Exploitation, Réglementation — chaque
+question rattachée aux sept référentiels qu'utilisent régulateurs et auditeurs
+(OWASP LLM Top 10 2025, OWASP Agentic, CSA AICM, NIST AI RMF, ISO/IEC 42001, EU
+AI Act, MITRE ATLAS).
 
 > Les réponses sont simples — **Oui · Partiel · Non · Ne sait pas · N.A.** — et
 > *« Ne sait pas » compte comme un risque : ce qu'on ne voit pas, on ne peut pas le défendre.*
-
-<div align="center">
-<img src="assets/flowguard-dashboard-fr-1.png" width="420" />
-</div>
 
 ### Aperçu du rapport (spécimen)
 
@@ -137,8 +130,9 @@ Prompts & RAG, Agents, Workflows, Tests, Exploitation, Réglementation.
 <img src="assets/spec-report-fr-2.png" width="330" />
 </div>
 
-> Le rapport d'exemple est présenté en **spécimen filigrané** — ni téléchargeable,
-> ni imprimable. Le rapport complet et propre est remis avec votre évaluation.
+> Le rapport est présenté en **spécimen filigrané** — ni téléchargeable, ni
+> imprimable. Le rapport complet et le registre Excel sont remis avec votre
+> évaluation.
 
 ### Obtenez votre diagnostic
 
