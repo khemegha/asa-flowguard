@@ -10,7 +10,6 @@
 
 [![Get your AI security baseline](https://img.shields.io/badge/Get%20your%20AI%20security%20baseline-6B2FA0?style=for-the-badge)](https://www.asa-ai.fr)
 [![Book a demo](https://img.shields.io/badge/Book%20a%20demo-D6247A?style=for-the-badge)](mailto:contact@asa-ai.fr)
-[![Sample report](https://img.shields.io/badge/See%20a%20sample%20report-1A1A2E?style=for-the-badge)](Sample_AI_Security_Audit_Report_EN.pdf)
 
 </div>
 
@@ -34,11 +33,19 @@ evidence, whether any of it is governed. **ASA AI FlowGuard** turns that gut
 feeling into a **score, a risk map and an action plan** in one structured
 assessment.
 
-### What it measures
+### The deliverable: a working Excel assessment
 
-**114 questions across 10 domains** — Governance, Inventory, Models, Data,
-Prompts & RAG, Agents, Workflows, Testing, Operations, Regulation — each mapped
-to the frameworks regulators and auditors actually use:
+FlowGuard is built around a single, self-contained **Excel workbook** — the
+engine. You answer, it scores: maturity, compliance, residual-risk register and
+dashboard update automatically. Every question is mapped, line by line, to the
+seven frameworks regulators and auditors actually use.
+
+<div align="center">
+<img src="assets/spec-excel-questionnaire.png" alt="FlowGuard Excel — questionnaire with framework mapping (SPECIMEN)" width="860" />
+<br/><br/>
+<img src="assets/spec-excel-dashboard.png" alt="FlowGuard Excel — dashboard & residual-risk matrix (SPECIMEN)" width="720" />
+<br/><em>Extract of the FlowGuard workbook — <strong>SPECIMEN</strong></em>
+</div>
 
 | Framework | Publisher |
 |---|---|
@@ -55,21 +62,26 @@ to the frameworks regulators and auditors actually use:
 - A **maturity level** (1–5) and a **global compliance score**
 - A **residual-risk matrix** (impact × likelihood) and your **top 10 critical risks**
 - A **prioritized remediation plan**, owner and due date per finding
-- A **board-ready report** (PDF) and a working **Excel register**
+- A **board-ready report** (PDF) backed by the working Excel register
 
 > Answers are simple — **Yes · Partial · No · Don't know · N/A** — and *"Don't know"
 > is scored as a risk: what you can't see, you can't defend.*
 
 <div align="center">
-<img src="assets/flowguard-02-dashboard.png" width="250" />
 <img src="assets/flowguard-03-compliance.png" width="250" />
 <img src="assets/flowguard-04-top-risks.png" width="250" />
+<img src="assets/flowguard-05-howitworks.png" width="250" />
 </div>
 
-### See a real assessment
+### Inside the report (specimen)
 
-A full **sample report** on a fictitious organization shows exactly what you get:
-**[Sample_AI_Security_Audit_Report_EN.pdf](Sample_AI_Security_Audit_Report_EN.pdf)**.
+<div align="center">
+<img src="assets/spec-report-en-1.png" width="330" />
+<img src="assets/spec-report-en-2.png" width="330" />
+</div>
+
+> The sample report is shown as a **watermarked specimen** — not downloadable,
+> not printable. The full, clean report is delivered with your assessment.
 
 ### Get your baseline
 
@@ -91,42 +103,42 @@ cela est gouverné. **ASA AI FlowGuard** transforme cette intuition en un
 **score, une cartographie des risques et un plan d'action**, en une seule
 évaluation structurée.
 
+### La pièce maîtresse : un classeur Excel opérationnel
+
+FlowGuard repose sur un **classeur Excel** autonome — le moteur. Vous répondez,
+il calcule : maturité, conformité, registre des risques résiduels et tableau de
+bord se mettent à jour automatiquement. Chaque question est rattachée, ligne par
+ligne, aux sept référentiels qu'utilisent réellement régulateurs et auditeurs
+(colonnes visibles ci-dessus).
+
 ### Ce qu'il mesure
 
 **114 questions sur 10 domaines** — Gouvernance, Inventaire, Modèles, Données,
-Prompts & RAG, Agents, Workflows, Tests, Exploitation, Réglementation — chacune
-rattachée aux référentiels qu'utilisent réellement régulateurs et auditeurs :
-
-| Référentiel | Éditeur |
-|---|---|
-| OWASP Top 10 for LLM Applications (2025) | OWASP GenAI Security Project |
-| OWASP Top 10 for Agentic Applications | OWASP GenAI Security Project |
-| AI Controls Matrix (AICM) | Cloud Security Alliance |
-| AI Risk Management Framework | NIST |
-| ISO/IEC 42001 (système de management de l'IA) | ISO/IEC |
-| Règlement européen sur l'IA (EU AI Act) | Union européenne |
-| ATLAS (ML adverse) | MITRE |
+Prompts & RAG, Agents, Workflows, Tests, Exploitation, Réglementation.
 
 ### Ce que vous obtenez
 
 - Un **niveau de maturité** (1 à 5) et un **score de conformité global**
 - Une **matrice des risques résiduels** (impact × probabilité) et vos **10 risques critiques**
 - Un **plan de remédiation priorisé**, avec responsable et échéance par constat
-- Un **rapport présentable à un comité** (PDF) et un **registre Excel** opérationnel
+- Un **rapport présentable à un comité** (PDF), adossé au registre Excel
 
 > Les réponses sont simples — **Oui · Partiel · Non · Ne sait pas · N.A.** — et
 > *« Ne sait pas » compte comme un risque : ce qu'on ne voit pas, on ne peut pas le défendre.*
 
 <div align="center">
 <img src="assets/flowguard-dashboard-fr-1.png" width="420" />
-<br/>
-<img src="assets/flowguard-dashboard-fr-2.png" width="420" />
 </div>
 
-### Voir une évaluation réelle
+### Aperçu du rapport (spécimen)
 
-Un **rapport d'exemple** complet sur une organisation fictive montre exactement
-le livrable : **[Exemple_Rapport_Audit_Securite_IA_FR.pdf](Exemple_Rapport_Audit_Securite_IA_FR.pdf)**.
+<div align="center">
+<img src="assets/spec-report-fr-1.png" width="330" />
+<img src="assets/spec-report-fr-2.png" width="330" />
+</div>
+
+> Le rapport d'exemple est présenté en **spécimen filigrané** — ni téléchargeable,
+> ni imprimable. Le rapport complet et propre est remis avec votre évaluation.
 
 ### Obtenez votre diagnostic
 
@@ -142,7 +154,6 @@ sur vos agents, workflows et LLM.
 
 **ASA AI** · Savigny-le-Temple, France · [www.asa-ai.fr](https://www.asa-ai.fr) · [contact@asa-ai.fr](mailto:contact@asa-ai.fr)
 
-*Correspondances aux référentiels fournies à titre indicatif ; elles orientent l'analyse et ne remplacent pas la lecture des textes officiels.*
-*Framework mappings are indicative and do not replace the official texts.*
+*Correspondances aux référentiels fournies à titre indicatif ; elles ne remplacent pas la lecture des textes officiels. · Framework mappings are indicative and do not replace the official texts.*
 
 </div>
